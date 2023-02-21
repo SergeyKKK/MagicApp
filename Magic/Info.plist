@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string></string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Poppins-Bold.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Poppins-Medium.ttf</string>
+		<string>ALITIDE.otf</string>
+		<string>ALITIDESTAMP.otf</string>
+		<string>Abegnale.otf</string>
+		<string>AddingtonCF-Bold.otf</string>
+		<string>AddingtonCF-BoldItalic.otf</string>
+		<string>AddingtonCF-DemiBold.otf</string>
+		<string>AddingtonCF-DemiBoldItalic.otf</string>
+		<string>AddingtonCF-ExtraBold.otf</string>
+		<string>AddingtonCF-ExtraBoldItalic.otf</string>
+		<string>AddingtonCF-Light.otf</string>
+		<string>AddingtonCF-LightItalic.otf</string>
+		<string>AddingtonCF-Medium.otf</string>
+		<string>AddingtonCF-MediumItalic.otf</string>
+		<string>AddingtonCF-Regular.otf</string>
+		<string>AddingtonCF-RegularItalic.otf</string>
+		<string>AddingtonCF-Thin.otf</string>
+		<string>AddingtonCF-ThinItalic.otf</string>
+		<string>Almond Regular.ttf</string>
+		<string>ArizonaBold.otf</string>
+		<string>ArizonaOutline.ttf</string>
+		<string>ArizonaShadow.ttf</string>
+		<string>Arthouse Alt 01.ttf</string>
+		<string>Arthouse Alt 02.ttf</string>
+		<string>Arthouse Alt 03.ttf</string>
+		<string>Arthouse Alt 04.ttf</string>
+		<string>Arthouse Alt 05.ttf</string>
+		<string>Arthouse Alt 06.ttf</string>
+		<string>Arthouse Alt 07.ttf</string>
+		<string>Arthouse Ornament 01.ttf</string>
+		<string>Arthouse Ornament 02.ttf</string>
+		<string>Arthouse Pro.ttf</string>
+		<string>Auther Typeface.ttf</string>
+		<string>BrewskiTextured.ttf</string>
+		<string>Bristain Rought.ttf</string>
+		<string>Burford_Dots.ttf</string>
+		<string>Cambridge.ttf</string>
+		<string>DianaWebber Caps Solid.otf</string>
+		<string>DianaWebber Script Brush.otf</string>
+		<string>DianaWebber Script Solid.otf</string>
+		<string>Douglas-Aaronade-Script.otf</string>
+		<string>Douglas-Ancaster-Script.otf</string>
+		<string>Douglas-Burlington-Regular.otf</string>
+		<string>Douglas-Calgury-Block.otf</string>
+		<string>Douglas-Montreal-Rounded.otf</string>
+		<string>Douglas-Morphic-60s.otf</string>
+		<string>Douglas-Norwood-Old.otf</string>
+		<string>Douglas-Ogdensburgh-Condensed.otf</string>
+		<string>Douglas-Palmeira-Script.otf</string>
+		<string>Douglas-Rutland-Extended.otf</string>
+		<string>Douglas-Wolves-Sans.otf</string>
+		<string>Douglas-Wolves-Serif.otf</string>
+		<string>Enchanted Land.otf</string>
+		<string>Flexiletto-Regular.ttf</string>
+		<string>Glowist.otf</string>
+		<string>Hagen Regular.ttf</string>
+		<string>Hagen Style.ttf</string>
+		<string>Hell Print.ttf</string>
+		<string>JuneMorning-Regular.otf</string>
+		<string>Kohm.otf</string>
+		<string>Lansdowne Slanted.ttf</string>
+		<string>Lansdowne.ttf</string>
+		<string>Lawless-Grunge.otf</string>
+		<string>Lawless-Regular.otf</string>
+		<string>Lawless-Shadow.otf</string>
+		<string>Lawless-Spur.otf</string>
+		<string>Leah Gaviota Bold.ttf</string>
+		<string>Leah Gaviota Decorative.ttf</string>
+		<string>Leah Gaviota Double.ttf</string>
+		<string>Leah Gaviota Outline.otf</string>
+		<string>Leah Gaviota Outline.ttf</string>
+		<string>Leah Gaviota Script.ttf</string>
+		<string>Leah Gaviota Thin.ttf</string>
+		<string>MacLaurent.ttf</string>
+		<string>Madeline.ttf</string>
+		<string>Megeon Grunge.otf</string>
+		<string>Megeon.otf</string>
+		<string>Morning Glory Font.ttf</string>
+		<string>Mutiara_Display.ttf</string>
+		<string>Mutiara_Display_02.ttf</string>
+		<string>Mutiara_Display_02_Shadow.ttf</string>
+		<string>Mutiara_Display_Shadow.ttf</string>
+		<string>NORTHDEN.ttf</string>
+		<string>NORTHDENROUGH.ttf</string>
+		<string>Ocean Twelve Catchwordst.ttf</string>
+		<string>Ocean Twelve script.ttf</string>
+		<string>Ocean Twelve.ttf</string>
+		<string>Parlour-Regular.otf</string>
+		<string>ParlourPro-Regular.otf</string>
+		<string>PicnicCaps.ttf</string>
+		<string>PicnicCapsAlternate.ttf</string>
+		<string>RNSCamelia-Black.otf</string>
+		<string>RNSCamelia-BlackItalic.otf</string>
+		<string>RNSCamelia-Bold.otf</string>
+		<string>RNSCamelia-BoldItalic.otf</string>
+		<string>RNSCamelia-ExtraBold.otf</string>
+		<string>RNSCamelia-ExtraBoldItalic.otf</string>
+		<string>RNSCamelia-Italic.otf</string>
+		<string>RNSCamelia-Light.otf</string>
+		<string>RNSCamelia-LightItalic.otf</string>
+		<string>RNSCamelia-Medium.otf</string>
+		<string>RNSCamelia-MediumItalic.otf</string>
+		<string>RNSCamelia-Regular.otf</string>
+		<string>RNSCamelia-Thin.otf</string>
+		<string>RNSCamelia-ThinItalic.otf</string>
+		<string>Reidfork Handdrawn Rough.ttf</string>
+		<string>Reidfork Handdrawn.ttf</string>
+		<string>Reidfork.ttf</string>
+		<string>Ropstone .ttf</string>
+		<string>Ropstone Sparkle.ttf</string>
+		<string>Sanös-Extended.ttf</string>
+		<string>Siggy-Bold Italic.otf</string>
+		<string>Siggy-Bold.otf</string>
+		<string>Siggy-Regular Italic.otf</string>
+		<string>Siggy-Regular.otf</string>
+		<string>TheCrowGrunge.ttf</string>
+		<string>TheCrowInline.ttf</string>
+		<string>TheCrowInlineGrunge.ttf</string>
+		<string>TheCrowInlineShadow.ttf</string>
+		<string>TheCrowInlineShadowGrunge.ttf</string>
+		<string>TheCrowRegular.ttf</string>
+		<string>TheCrowShadow.ttf</string>
+		<string>TheCrowShadowGrunge.ttf</string>
+		<string>Toxine.otf</string>
+		<string>WanderlustRegular.ttf</string>
+		<string>Whiskey Font One.ttf</string>
+		<string>Whiskey Font Three.ttf</string>
+		<string>Whiskey Font Two.ttf</string>
+		<string>ZenzeroGrotesk-Regular.otf</string>
+		<string>ZenzeroGrotesk-Round.otf</string>
+		<string>alpha.otf</string>
+		<string>kahuripan_3d.ttf</string>
+		<string>kahuripan_3d_grunge.ttf</string>
+		<string>kahuripan_shadow.ttf</string>
+		<string>kahuripan_shadow_grunge.ttf</string>
+		<string>typrighter-B.ttf</string>
+		<string>typrighterV1-1.ttf</string>
+		<string>typrighterV2-1.otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+{
+  "identifier" : "0ED0D4DE",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "C8CD2E8B",
+      "localizations" : [
+
+      ],
+      "name" : "VIP",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1956CB33",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Weakly subscription",
+              "displayName" : "Weakly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "weaklysubs",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Weakly",
+          "subscriptionGroupID" : "C8CD2E8B",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
